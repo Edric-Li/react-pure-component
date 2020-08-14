@@ -1,1 +1,1 @@
-# smallButton
+# react-pure-component
