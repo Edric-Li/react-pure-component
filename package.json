@@ -16,6 +16,13 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   },
+  "keywords": [
+    "react",
+    "pure",
+    "component",
+    "react-component",
+    "pureComponent"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Shealtiel-Li/react-pure-component.git"
