@@ -9,5 +9,6 @@
 # production
 /dist
 .idea
+/lib
 # misc
 .DS_Store
